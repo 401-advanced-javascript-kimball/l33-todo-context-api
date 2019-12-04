@@ -1,26 +1,18 @@
-# l33-todo-context-api
-
-* [submission PR](https://github.com/401-advanced-javascript-kimball/l33-todo-context-api/pull/1)
-* [travis](https://travis-ci.com/401-advanced-javascript-kimball/l33-todo-context-api)
-
-# LAB - 
+# LAB - l33-todo-context-api
 
 ## Project Name
 
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/401-advanced-javascript-kimball/l33-todo-context-api/pull/1)
+* [travis](https://travis-ci.com/401-advanced-javascript-kimball/l33-todo-context-api)
 * [front-end](http://xyz.com) (when applicable)
 
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
-
 ### Modules
+
+
+
 #### `modulename.js`
 ##### Exported Values and Methods
 
@@ -118,4 +110,14 @@ For this assignment, we'll be using the Context API to add a few "settings" to t
 Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations
 
 ----------
+
+<!-- 
+remote: Create a pull request for 'submission' on GitHub by visiting:
+remote:      https://github.com/401-advanced-javascript-kimball/l33-todo-context-api/pull/new/submission
+remote:
+To github.com:401-advanced-javascript-kimball/l33-todo-context-api.git
+ * [new branch]      submission -> submission
+Submission Link:
+https://github.com/401-advanced-javascript-kimball/l33-todo-context-api/blob/submission/README.md
+ -->
 
